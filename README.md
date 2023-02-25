@@ -24,7 +24,7 @@
 # Process to run the app
 <ol>
   <li> run <b>nodemon nodeserver/index.js</b>
-  <li> Install the extension 'live server' for Vs Code. Extension Id - <b>ritwickdey.liveserver </b>
+  <li> Install the extension 'live server' for Vs Code. Extension Id - <b>vijay.liveserver </b>
   <li> After the extension gets installed navigate to index.html and open it to edit.
   <li> Right click anywhere in the file <b>index.html</b> and from the menu that appears select <b> Open with Live server </b>
   <li> A instance of the application will appear in the browser. 
